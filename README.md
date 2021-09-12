@@ -1,5 +1,6 @@
 ## Assalamualaikum Hello folks it's me, Arya Javas Fatih 👋
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryajavasfatih888@gmail.com)](mailto:aryajavasfatih888@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-aryajf-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aryajf/)](https://www.github.com/aryajf/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://javas.digitalinteraktif.com/)](https://javas.digitalinteraktif.com/)
 
@@ -9,6 +10,7 @@
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white])
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white])
 ![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E])
+![php Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white])
 
 <p align='left'>Feel free to use my app ( with my permission 😜 just kiddin xd )
 <p align='left'> You can view my resume <a href='https://javas.digitalinteraktif.com/pdfdownload ' target=_blank><u>here</u>.</a></p>
