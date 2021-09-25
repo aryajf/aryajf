@@ -7,6 +7,7 @@
 <p align='left'> You can view my resume <a href='https://javas.digitalinteraktif.com/pdfdownload ' target=_blank><u>here</u>.</a></p>
 
 <h3 align='left'>My Social Media 📱</h3>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryajavasfatih888@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/javas_f) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/arya.j.fatih) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281513469043)
 
 ## My Weapons 🔫💣💥
