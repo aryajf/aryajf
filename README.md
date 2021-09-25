@@ -3,8 +3,8 @@
 [![Github Badge](https://img.shields.io/badge/-aryajf-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aryajf/)](https://www.github.com/aryajf)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://javas.digitalinteraktif.com/)](https://javas.digitalinteraktif.com)
 
-## My Social Media
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryajavasfatih888@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/javas_f) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/arya.j.fatih) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0815-1346-9043)
+## My Social Media 📱
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryajavasfatih888@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/javas_f) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/arya.j.fatih) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281513469043)
 
 <p align='left'>Feel free to use my app ( with my permission 😜 just kiddin xd )
 <p align='left'> You can view my resume <a href='https://javas.digitalinteraktif.com/pdfdownload ' target=_blank><u>here</u>.</a></p>
