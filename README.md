@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-aryajf-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aryajf/)](https://www.github.com/aryajf/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://javas.digitalinteraktif.com/)](https://javas.digitalinteraktif.com/)
 
-![Instagram](https://img.shields.io/badge/<javas_f>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://javas.digitalinteraktif.com/)
 
 <p align='left'>Feel free to use my app ( with my permission 😜 just kiddin xd )
 <p align='left'> You can view my resume <a href='https://javas.digitalinteraktif.com/pdfdownload ' target=_blank><u>here</u>.</a></p>
